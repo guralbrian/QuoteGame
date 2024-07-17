@@ -1,13 +1,13 @@
 const questions = [
     {
         question: "What is the capital of France?",
-        choices: ["Paris", "London", "Berlin", "Madrid"],
-        correct: "Paris"
+        choices: ["“We’re called to be the Christians that God has called us to be. And we are called … to be led by men. God sent women out … to do their thing. But when it was time to face down Goliath, He sent DAVID, not Davita. DAVID! When it was time to lead the Israelites out of [Egypt], He sent MOSES! Not Mama Moses, Daddy Moses.", "London", "Berlin", "Madrid"],
+        correct: "“We’re called to be the Christians that God has called us to be. And we are called … to be led by men. God sent women out … to do their thing. But when it was time to face down Goliath, He sent DAVID, not Davita. DAVID! When it was time to lead the Israelites out of [Egypt], He sent MOSES! Not Mama Moses, Daddy Moses."
     },
     {
         question: "What is 2 + 2?",
-        choices: ["3", "4", "5", "6"],
-        correct: "4"
+        choices: ["Ain’t but two genders—male and female.… ", "4", "5", "6"],
+        correct: "Ain’t but two genders—male and female.… "
     },
     {
         question: "Which planet is known as the Red Planet?",
